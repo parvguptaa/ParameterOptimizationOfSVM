@@ -20,7 +20,7 @@ This data is for the purpose of bias correction of next-day maximum and minimum 
 
 Number of Instances: 7588
 
-Number of Attributes: 28
+Number of Attributes: 27
 
 ## Final Result Table
 
